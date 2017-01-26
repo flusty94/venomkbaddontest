@@ -1,5 +1,71 @@
 #EXTM3U
 #EXTIF:-1,-----TEST LIST-----
 http://venomkb.proboards.com
-#EXTINF:-1,Discovery Channel
-http://hlsstr03-svc-iptv.ch.ma/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1,TSN 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2185.ts
+#EXTINF:-1,Sky Two (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2186.ts
+#EXTINF:-1,Sky Thriller (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2187.ts
+#EXTINF:-1,Sky Sports 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2192.ts
+#EXTINF:-1,Sky Sports 2 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2191.ts
+#EXTINF:-1,Sky Sports 3 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2190.ts
+#EXTINF:-1,Sky Sports 4 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2189.ts
+#EXTINF:-1,Sky Sports 5 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2188.ts
+#EXTINF:-1,Sky Premiere Sports (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2193.ts
+#EXTINF:-1,Sky Premier (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2194.ts
+#EXTINF:-1,Sky Movies Scifi / Horror (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2195.ts
+#EXTINF:-1,Sky Living (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2196.ts
+#EXTINF:-1,Sky Drama (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2197.ts
+#EXTINF:-1,Sky Comedy (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2198.ts
+#EXTINF:-1,Sky Atlantic (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2199.ts
+#EXTINF:-1,Sky Action (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2200.ts
+#EXTINF:-1,ONE 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2202.ts
+#EXTINF:-1,ONE 4 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2201.ts
+#EXTINF:-1,MUTV (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2203.ts
+#EXTINF:-1,ITV 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2207.ts
+#EXTINF:-1,ITV 2 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2206.ts
+#EXTINF:-1,ITV 3 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2205.ts
+#EXTINF:-1,ITV 4 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2204.ts
+#EXTINF:-1,Fox Sports 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2208.ts
+#EXTINF:-1,Film 4 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2209.ts
+#EXTINF:-1,Drama (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2210.ts
+#EXTINF:-1,DMax (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2211.ts
+#EXTINF:-1,Comedy Central (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2212.ts
+#EXTINF:-1,Chelsea TV (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2213.ts
+#EXTINF:-1,Channel 4 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2215.ts
+#EXTINF:-1,Channel 5 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2214.ts
+#EXTINF:-1,BT Sports EU (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2216.ts
+#EXTINF:-1,BT Sports 1 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2218.ts
+#EXTINF:-1,BT Sports 2 (UK)
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2217.ts
