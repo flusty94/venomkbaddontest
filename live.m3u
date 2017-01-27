@@ -195,6 +195,14 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3555.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3613.ts
 #EXTINF:-1,FOXNews
 http://ipro.newtvhd.com:8789/live/adil/adil/1351.ts
+#EXTINF:-1,BBC News
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/239.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTÉ News
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2286.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/827.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Al Jazeera
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2008.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,-----[COLORred]Documentary[/COLOR]-----
 http://empty.net
 #EXTINF:-1,UK: Sky Arts 1
@@ -411,12 +419,72 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3586.ts
 #EXTINF:-1,-----[COLORred]Music[/COLOR]-----
 http://music.fake
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3521.ts
-#EXTINF:-1,UK: MTV 1
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3523.ts
+#EXTINF:-1,MTV Hits
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/242.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,UK: Vh1 Classic
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3522.ts
 #EXTINF:-1,UK: ViVa UK
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3524.ts
+#EXTINF:-1,MTV Base
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1091.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV Classic
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV Rocks
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/451.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Deluxe Music
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2009.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Heart TV
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/813.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Heart
+rtmp://cdn-sov-2.musicradio.com:80/LiveAudio/HeartLondon
+#EXTINF:-1,Kiss TV
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Virgin Radio
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/381.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Absolute 60's
+plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a6128.mp3
+#EXTINF:-1,Absolute 70's
+plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a7128.mp3
+#EXTINF:-1,Absolute 80's
+plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a8128.mp3
+#EXTINF:-1,Absolute 90's
+plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a9128.mp3
+#EXTINF:-1,BBC Radio 1
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2537.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 1xtra
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2538.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 2
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 3
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2540.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 4 Extra
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2543.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 4FM
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2541.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 4LW
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2542.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 5 Live
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2544.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 5 Live Sportsball Extra
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2545.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Radio 6 Music
+plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2546.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,-----[COLORred]Other[/COLOR]-----
 http://other.face
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3545.ts
