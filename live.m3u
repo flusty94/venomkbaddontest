@@ -1,16 +1,17 @@
 #EXTM3U
-#EXTIF:-1,-----TEST LIST-----
+#EXTINF:-1,-------------------
+#EXTIF:-1,-----VenomKB Channel List-----
 http://venomkb.proboards.com
 #EXTINF:-1,-----[COLORred]Entertainment[/COLOR]-----
 #EXTINF:-1,UK: BBC 1 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3445.ts
-#EXTINF:-1,UK: BBC_One_HD
+#EXTINF:-1,UK: BBC One HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3614.ts
-#EXTINF:-1,UK: BBC_2_HD
+#EXTINF:-1,UK: BBC 2 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3617.ts
 #EXTINF:-1,UK: ITV 1 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3447.ts
-#EXTINF:-1,UK: ITV_1_HD
+#EXTINF:-1,UK: ITV 1 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3622.ts
 #EXTINF:-1,UK: CHANNEL 4
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3448.ts
@@ -24,24 +25,24 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3452.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3453.ts
 #EXTINF:-1,UK: ITV Encore
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3564.ts
-#EXTINF:-1,UK: ITV_2_HD
+#EXTINF:-1,UK: ITV 2 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3621.ts
-#EXTINF:-1,UK: ITV_3_HD
+#EXTINF:-1,UK: ITV 3 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3620.ts
-#EXTINF:-1,UK: ITV_4_HD
+#EXTINF:-1,UK: ITV 4 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3619.ts
-#EXTINF:-1,UK: ITV_Encore
+#EXTINF:-1,UK: ITV Encore
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3618.ts
 #EXTINF:-1,UK: BBC 3 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3454.ts
 #EXTINF:-1,UK: BBC 4HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3455.ts
-#EXTINF:-1,UK: BBC_3_HD
+#EXTINF:-1,UK: BBC 3 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3616.ts
-#EXTINF:-1,UK: BBC_4_HD
+#EXTINF:-1,UK: BBC 4 HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3615.ts
-#EXTINF:-1,UK: BBC_News
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3613.ts
+#EXTINF:-1,UK: Dave
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3563.ts
 #EXTINF:-1,UK: Gold
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3456.ts
 #EXTINF:-1,UK: E4
@@ -54,13 +55,13 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3461.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3462.ts
 #EXTINF:-1,UK: RTE Two
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3463.ts
-#EXTINF:-1,UK: RTE_1
+#EXTINF:-1,UK: RTE 1
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3624.ts
-#EXTINF:-1,UK: RTE_2
+#EXTINF:-1,UK: RTE 2
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3623.ts
 #EXTINF:-1,UK: Sky One
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3450.ts
-#EXTINF:-1,UK: Sky_One_HD
+#EXTINF:-1,UK: Sky One HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3628.ts
 #EXTINF:-1,UK: Really
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3549.ts
@@ -70,23 +71,23 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3560.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3612.ts
 #EXTINF:-1,-----[COLORred]MOVIES[/COLOR]----
 http://empty.com
-#EXTINF:-1,UK:SKY_PREMIERE
+#EXTINF:-1,UK:SKY PREMIERE
 http://ipro.newtvhd.com:8789/live/adil/adil/1028.ts
-#EXTINF:-1,UK:SKY_Family HD
+#EXTINF:-1,UK:SKY Family HD
 http://ipro.newtvhd.com:8789/live/adil/adil/1104.ts
-#EXTINF:-1,UK:SKY_Action
+#EXTINF:-1,UK:SKY Action
 http://ipro.newtvhd.com:8789/live/adil/adil/1105.ts
-#EXTINF:-1,UK:SKY_Drama
+#EXTINF:-1,UK:SKY Drama
 http://ipro.newtvhd.com:8789/live/adil/adil/1108.ts
-#EXTINF:-1,UK:SKY_THRILLER
+#EXTINF:-1,UK:SKY THRILLER
 http://ipro.newtvhd.com:8789/live/adil/adil/993.ts
-#EXTINF:-1,UK:SKY_SciFi&Hor
+#EXTINF:-1,UK:SKY SciFi&Hor
 http://ipro.newtvhd.com:8789/live/adil/adil/667.ts
-#EXTINF:-1,UK:SKY_Select
+#EXTINF:-1,UK:SKY Select
 http://ipro.newtvhd.com:8789/live/adil/adil/1107.ts
-#EXTINF:-1,UK:SKY_Comedy
+#EXTINF:-1,UK:SKY Comedy
 http://ipro.newtvhd.com:8789/live/adil/adil/1106.ts
-#EXTINF:-1,UK:SKY_showcast
+#EXTINF:-1,UK:SKY showcast
 http://ipro.newtvhd.com:8789/live/adil/adil/1109.ts
 #EXTINF:-1,Movies4Men
 http://ipro.newtvhd.com:8789/live/adil/adil/1343.ts
@@ -190,6 +191,10 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3502.ts
 http://empty.org
 #EXTINF:-1,UK: Sky News
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3555.ts
+#EXTINF:-1,UK: BBC News
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3613.ts
+#EXTINF:-1,FOXNews
+http://ipro.newtvhd.com:8789/live/adil/adil/1351.ts
 #EXTINF:-1,-----[COLORred]Documentary[/COLOR]-----
 http://empty.net
 #EXTINF:-1,UK: Sky Arts 1
@@ -360,31 +365,31 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/534.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3464.ts
 #EXTINF:-1,UK: Sky SciFi & Horror
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3474.ts
-#EXTINF:-1,UK: Sky_Action
+#EXTINF:-1,UK: Sky Action
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3642.ts
-#EXTINF:-1,UK: Sky_Arts
+#EXTINF:-1,UK: Sky Arts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3641.ts
-#EXTINF:-1,UK: Sky_Atlantic
+#EXTINF:-1,UK: Sky Atlantic
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3640.ts
-#EXTINF:-1,UK: Sky_Comedy
+#EXTINF:-1,UK: Sky Comedy
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3639.ts
-#EXTINF:-1,UK: Sky_Family
+#EXTINF:-1,UK: Sky Family
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3638.ts
-#EXTINF:-1,UK: Sky_Greats
+#EXTINF:-1,UK: Sky Greats
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3637.ts
-#EXTINF:-1,UK: Sky_Monsters
+#EXTINF:-1,UK: Sky Monsters
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3636.ts
-#EXTINF:-1,UK: Sky_Movies_Drama
+#EXTINF:-1,UK: Sky Movies Drama
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3635.ts
-#EXTINF:-1,UK: Sky_Movies_ShowCase
+#EXTINF:-1,UK: Sky Movies ShowCase
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3634.ts
-#EXTINF:-1,UK: Sky_Premiere
+#EXTINF:-1,UK: Sky Premiere
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3633.ts
-#EXTINF:-1,UK: Sky_SciFi&Horror
+#EXTINF:-1,UK: Sky SciFi&Horror
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3632.ts
-#EXTINF:-1,UK: Sky_Select
+#EXTINF:-1,UK: Sky Select
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3631.ts
-#EXTINF:-1,UK: Sky_Thriller
+#EXTINF:-1,UK: Sky Thriller
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3630.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3574.ts
 #EXTINF:-1,UK: Zee Cinema uk
@@ -421,8 +426,6 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3556.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/219.ts
 #EXTINF:-1,UK: Alibi uk
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3552.ts
-#EXTINF:-1,UK: Dave
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3563.ts
 #EXTINF:-1,UK: UTV Ireland
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3547.ts
 #EXTINF:-1,UK: PPV
