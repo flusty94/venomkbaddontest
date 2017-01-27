@@ -69,8 +69,7 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3560.ts
 #EXTINF:-1,UK: Universal  1
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3612.ts
 #EXTINF:-1,
-#EXTINF:-1, ----- SKY MOVIES -----
-#EXTINF:-1,
+#EXTINF:-1,-----SKY MOVIES----
 #EXTINF:-1,UK:SKY_PREMIERE
 http://ipro.newtvhd.com:8789/live/adil/adil/1028.ts
 #EXTINF:-1,UK:SKY_Family HD
@@ -94,8 +93,7 @@ http://ipro.newtvhd.com:8789/live/adil/adil/1343.ts
 #EXTINF:-1,RealLives
 http://ipro.newtvhd.com:8789/live/adil/adil/1335.ts
 #EXTINF:-1,
-#EXTINF:-1, ----- SKY SPORTS-----
-#EXTINF:-1,
+#EXTINF:-1,----- SKY SPORTS-----
 #EXTINF:-1,UK: Horror Channel
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3565.ts
 #EXTINF:-1,UK: SKY SPORTS MIX
@@ -188,8 +186,12 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/301.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3503.ts
 #EXTINF:-1,UK: At The Races
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3502.ts
+#EXTINF:-1,
+#EXTINF:-1,---NEWS---
 #EXTINF:-1,UK: Sky News
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3555.ts
+#EXTINF:-1,
+#EXTINF:-1,----- Documentary -----
 #EXTINF:-1,UK: Sky Arts 1
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3548.ts
 #EXTINF:-1,UK: Sky Atlantic
@@ -198,6 +200,140 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3459.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3458.ts
 #EXTINF:-1,UK: Sky Two
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3561.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3548.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3459.ts
+#EXTINF:-1,UK: Sky Living
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3458.ts
+#EXTINF:-1,UK: Sky Two
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3561.ts
+#EXTINF:-1,UK: CBS Action
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3559.ts
+#EXTINF:-1,UK: CBS Drama
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3558.ts
+#EXTINF:-1,UK: CBS Reality
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3557.ts
+#EXTINF:-1,UK: SyFy
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3626.ts
+#EXTINF:-1,UK: Drama
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3567.ts
+#EXTINF:-1,UK: Comedy Central
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3479.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3478.ts
+#EXTINF:-1,UK: Pick TV
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3551.ts
+#EXTINF:-1,UK: Quest
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3550.ts
+#EXTINF:-1,UK: Animal Planet
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/314.ts
+#EXTINF:-1,UK: H2
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3566.ts
+#EXTINF:-1,UK: More4
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3553.ts
+#EXTINF:-1,UK: Discovery
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/313.ts
+#EXTINF:-1,UK: Discovery +
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3569.ts
+#EXTINF:-1,UK: Discovery History
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3539.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3538.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3543.ts
+#EXTINF:-1,UK: Discovery Science
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3542.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3541.ts
+#EXTINF:-1,UK: Discovery World
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3540.ts
+#EXTINF:-1,UK: Dmax
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3568.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3536.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3611.ts
+#EXTINF:-1,UK: NAT GEO GRAPHIC
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3537.ts
+#EXTINF:-1,UK: Russia Documentary
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3544.ts
+#EXTINF:-1,
+#EXTINF:-1,----- KIDS -----
+#EXTINF:-1,UK: CBBC
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3513.ts
+#EXTINF:-1,UK: Cbeebies
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3512.ts
+#EXTINF:-1,UK: Nickelodeon
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/309.ts
+#EXTINF:-1,UK: Disney Channel
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3516.ts
+#EXTINF:-1,UK: Dinseny Channel UK
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3519.ts
+#EXTINF:-1,UK: Disney XD
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/312.ts
+#EXTINF:-1,UK: Disney Junior
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3518.ts
+#EXTINF:-1,UK: Nick
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3514.ts
+#EXTINF:-1,UK: Nick JR
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3511.ts
+#EXTINF:-1,UK: NickToons
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3517.ts
+#EXTINF:-1,UK: Nick Junior
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/310.ts
+#EXTINF:-1,UK: Baby TV
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3520.ts
+#EXTINF:-1,UK: Boomerang
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3515.ts
+#EXTINF:-1,UK: Cartoon Network
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/311.ts
+#EXTINF:-1,
+#EXTINF:-1,----- Lifestyle -----
+#EXTINF:-1,UK: TLC
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3529.ts
+#EXTINF:-1,UK: TLC iRELAND
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3570.ts
+#EXTINF:-1,UK: Food Network
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3528.ts
+#EXTINF:-1,UK: Good Food
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3527.ts
+#EXTINF:-1,UK: Good Food  1
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3526.ts
+#EXTINF:-1,UK: Living
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3531.ts
+#EXTINF:-1,UK: Living_UK
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3625.ts
+#EXTINF:-1,UK: E!
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3546.ts
+#EXTINF:-1,UK: LONDON LIFE
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3530.ts
+#EXTINF:-1,UK: London Live
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/220.ts
+#EXTINF:-1,UK: Home
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3532.ts
+#EXTINF:-1,UK: Watch
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3534.ts
+#EXTINF:-1,UK: Yesterday
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3533.ts
+#EXTINF:-1,
+#EXTINF:-1,----- ASIAN -----
+#EXTINF:-1,UK: SONY MOVIES
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3480.ts
+#EXTINF:-1,UK: Sony Sab uk
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3581.ts
+#EXTINF:-1,UK: Sony TV UK
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3579.ts
+#EXTINF:-1,UK: Star Gold uk
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3573.ts
+#EXTINF:-1,UK: Star Life OK
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3583.ts
+#EXTINF:-1,UK: STAR PLUS
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3572.ts
+#EXTINF:-1,UK: Colors
+http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3575.ts
+~EXTINF:-1,
+#EXTINF:-1,---Movies---
 #EXTINF:-1,UK: Sky Movies Action HD
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/538.ts
 #EXTINF:-1,UK: Sky Movies Action
@@ -250,155 +386,6 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3632.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3631.ts
 #EXTINF:-1,UK: Sky_Thriller
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3630.ts
-#EXTINF:-1,UK: Sky_Two_HD
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3629.ts
-#EXTINF:-1,UK: Fox
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3562.ts
-#EXTINF:-1,UK: Film 4
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3475.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3476.ts
-#EXTINF:-1,UK: True Movies 1
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3477.ts
-#EXTINF:-1,UK: True Movies 2
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3481.ts
-#EXTINF:-1,UK: TCM
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3627.ts
-#EXTINF:-1,
-#EXTINF:-1, ----- Documentary -----
-#EXTINF:-1,
-#EXTINF:-1,UK: CBS Action
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3559.ts
-#EXTINF:-1,UK: CBS Drama
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3558.ts
-#EXTINF:-1,UK: CBS Reality
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3557.ts
-#EXTINF:-1,UK: SyFy
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3626.ts
-#EXTINF:-1,UK: Drama
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3567.ts
-#EXTINF:-1,UK: Comedy Central
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3479.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3478.ts
-#EXTINF:-1,*~*~*UK Documentaries*~*~*
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3535.ts
-#EXTINF:-1,UK: Pick TV
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3551.ts
-#EXTINF:-1,UK: Quest
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3550.ts
-#EXTINF:-1,UK: Animal Planet
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/314.ts
-#EXTINF:-1,UK: H2
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3566.ts
-#EXTINF:-1,UK: More4
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3553.ts
-#EXTINF:-1,UK: Discovery
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/313.ts
-#EXTINF:-1,UK: Discovery +
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3569.ts
-#EXTINF:-1,UK: Discovery History
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3539.ts
-#EXTINF:-1,UK: Discovery Home & Health
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3538.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3543.ts
-#EXTINF:-1,UK: Discovery Science
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3542.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3541.ts
-#EXTINF:-1,UK: Discovery World
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3540.ts
-#EXTINF:-1,UK: Dmax
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3568.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3536.ts
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3611.ts
-#EXTINF:-1,UK: NAT GEO GRAPHIC
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3537.ts
-#EXTINF:-1,UK: Russia Documentary
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3544.ts
-#EXTINF:-1,
-#EXTINF:-1, ----- KIDS -----
-#EXTINF:-1,
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3510.ts
-#EXTINF:-1,UK: CBBC
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3513.ts
-#EXTINF:-1,UK: Cbeebies
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3512.ts
-#EXTINF:-1,UK: Nickelodeon
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/309.ts
-#EXTINF:-1,UK: Disney Channel
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3516.ts
-#EXTINF:-1,UK: Dinseny Channel UK
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3519.ts
-#EXTINF:-1,UK: Disney XD
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/312.ts
-#EXTINF:-1,UK: Disney Junior
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3518.ts
-#EXTINF:-1,UK: Nick
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3514.ts
-#EXTINF:-1,UK: Nick JR
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3511.ts
-#EXTINF:-1,UK: NickToons
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3517.ts
-#EXTINF:-1,UK: Nick Junior
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/310.ts
-#EXTINF:-1,UK: Baby TV
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3520.ts
-#EXTINF:-1,UK: Boomerang
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3515.ts
-#EXTINF:-1,UK: Cartoon Network
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/311.ts
-#EXTINF:-1,
-#EXTINF:-1, ----- Lifestyle -----
-#EXTINF:-1,
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3525.ts
-#EXTINF:-1,UK: TLC
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3529.ts
-#EXTINF:-1,UK: TLC iRELAND
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3570.ts
-#EXTINF:-1,UK: Food Network
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3528.ts
-#EXTINF:-1,UK: Good Food
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3527.ts
-#EXTINF:-1,UK: Good Food  1
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3526.ts
-#EXTINF:-1,UK: Living
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3531.ts
-#EXTINF:-1,UK: Living_UK
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3625.ts
-#EXTINF:-1,UK: E!
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3546.ts
-#EXTINF:-1,UK: LONDON LIFE
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3530.ts
-#EXTINF:-1,UK: London Live
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/220.ts
-#EXTINF:-1,UK: Home
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3532.ts
-#EXTINF:-1,UK: Watch
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3534.ts
-#EXTINF:-1,UK: Yesterday
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3533.ts
-#EXTINF:-1,
-#EXTINF:-1, ----- ASIAN -----
-#EXTINF:-1,
-#EXTINF:-1,UK: SONY MOVIES
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3480.ts
-#EXTINF:-1,UK: Sony Sab uk
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3581.ts
-#EXTINF:-1,UK: Sony TV UK
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3579.ts
-#EXTINF:-1,UK: Star Gold uk
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3573.ts
-#EXTINF:-1,UK: Star Life OK
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3583.ts
-#EXTINF:-1,UK: STAR PLUS
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3572.ts
-#EXTINF:-1,UK: Colors
-http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3575.ts
-#EXTINF:-1,*~*~*Movies & Series*~*~*
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3574.ts
 #EXTINF:-1,UK: Zee Cinema uk
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3578.ts
@@ -418,7 +405,6 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3582.ts
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3586.ts
 #EXTINF:-1,
 #EXTINF:-1,----- Music -----
-#EXTINF:-1,
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3521.ts
 #EXTINF:-1,UK: MTV 1
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3523.ts
@@ -427,8 +413,7 @@ http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3522.ts
 #EXTINF:-1,UK: ViVa UK
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3524.ts
 #EXINTF:-1,
-#EXTINF:-1, ----- Other -----
-#EXTINF:-1,
+#EXTINF:-1,----- Other -----
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3545.ts
 #EXTINF:-1,UK: CNN
 http://azert.vunow.biz:8000/live/A5Gbu5sGoC/star7arab/3556.ts
