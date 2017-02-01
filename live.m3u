@@ -12,56 +12,56 @@ http://149.202.203.93:8888/live/taylor/taylor/1353.ts&amp;streamtype=TSDOWNLOADE
 #EXTINF:-1,ITV 1 +1
 http://149.202.203.93:8888/live/taylor/taylor/2633.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Channel 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/132.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/132.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Channel 5
 #EXTINF:-1,ITV 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/134.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/134.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/135.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/135.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/136.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/136.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV Encore
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/137.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/137.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV Encore  +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2634.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2634.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV Be
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/138.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/138.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Four
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/141.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/141.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Red Button
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/725.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/725.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,e4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/140.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/140.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,E4 +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2635.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2635.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Comedy Central
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/167.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/167.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Comedy Extra
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/168.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/168.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Comedy Central +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2640.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2640.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Comedy Extra  +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2641.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2641.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,More 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/159.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/159.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,More4 +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2636.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2636.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,4seven
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/118.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/118.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,5USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/142.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/142.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,5star
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/119.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/119.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Gold
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/169.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/169.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Alibi
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/171.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/171.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Pick
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/254.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/254.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/255.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/255.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dave
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/183.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/183.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dave ja vu
 http://77.101.152.34:8001/1:0:1:1DC8:82D:2:11A0000:0:0:0:
 #EXTINF:-1,Spike
@@ -79,17 +79,17 @@ http://77.101.152.34:8001/1:0:1:CC1F:83D:2:11A0000:0:0:0:
 #EXTINF:-1,Forces TV
 http://77.101.152.34:8001/1:0:1:1791:7D7:2:11A0000:0:0:0:
 #EXTINF:-1,Challenge
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/177.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/177.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Drama
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/161.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/161.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CBS action
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/180.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/180.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/186.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/186.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CBS Drama
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/826.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/826.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Food Network
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/176.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/176.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Food Netwrk+1
 http://77.101.152.34:8001/1:0:1:CD1E:844:2:11A0000:0:0:0:
 #EXTINF:-1,Good Food
@@ -99,421 +99,421 @@ http://77.101.152.34:8001/1:0:1:1DCA:82D:2:11A0000:0:0:0
 #EXTINF:-1,--[COLORred]Documentary[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,SKY One
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/162.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/162.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky One +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2638.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2638.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Two
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/163.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/163.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Fox
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/166.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/166.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Atlantic
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/165.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/165.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Atlantic +1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2639.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2639.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Universal
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/170.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/170.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Watch
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/175.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/175.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Alba
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2006.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2006.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,RTE1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/155.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/155.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,RTE2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/156.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/156.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,3e Ireland
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/464.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/464.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV3 Ireland
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/158.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/158.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TG4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/256.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/256.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,S4C
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2075.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2075.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Living
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/164.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/164.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Living It
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/173.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/173.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Lifetime
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/174.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/174.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/124.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/124.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery Science
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/981.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/981.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery World
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1349.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1349.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery Showcase
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1350.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1350.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery Turbo
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/194.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/194.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery Shed
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/192.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/192.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Discovery History
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/193.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/193.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Crime & Investigation
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/195.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/195.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Home
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/182.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/182.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Animal Planet
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/191.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/191.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Nat Geo Wild
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/190.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/190.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Nat Geo
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/189.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/189.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,History
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/188.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/188.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,H2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/179.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/179.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dmax
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/196.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/196.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ID
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/411.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/411.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Eden
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/184.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/184.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/187.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/187.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Arts
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/181.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/181.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[/COLORred]Movies[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,Sky Cinema Premier
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/143.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/143.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Comedy
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/147.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/147.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Syfy & Horror
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/148.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/148.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Select
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/153.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/153.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Greats
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/152.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/152.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Family
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/146.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/146.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Drama & Romance
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/151.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/151.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Disney
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/149.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/149.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Crime and Thriller
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/145.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/145.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Action
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/144.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/144.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Hits
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2285.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2285.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Cinema Christmas
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2241.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2241.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Film 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/229.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/229.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2243.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2243.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,True Movies 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/231.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/231.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,True Movies 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/230.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/230.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Movies 4 Men
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1093.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1093.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[COLORred]Sports[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,Today's Live Sports Schedule
-plugin://plugin.video.f4mTester/?url=http://castpro.tv/list2.wmv
+http://castpro.tv/list2.wmv
 #EXTINF:-1,Sky Sports 1HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1084.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1084.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports 2HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/11.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/11.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1085.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1085.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports 3HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/12.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/12.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1086.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1086.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports 4HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/13.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/13.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1087.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1087.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports 5HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/14.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/14.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1088.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1088.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports F1HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/15.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/15.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) Sky Sports F1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1089.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1089.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports News
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/16.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/16.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky Sports Mix
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2295.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2295.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/19.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/19.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) BT Sport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/983.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/983.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/20.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/20.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) BT Sport 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/988.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/988.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1969.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1969.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) BT Sport 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/21.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/21.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport ESPN
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/22.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/22.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,(LO) BT Sport ESPN
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2119.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2119.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport Extra 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/23.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/23.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport Extra 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2060.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2060.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport Extra 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2061.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2061.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport Extra 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2062.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2062.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BT Sport Extra 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2063.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2063.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1992.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1992.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Racing UK (2)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/31.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/31.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,At The Races
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/71.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/71.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Eir Sport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/24.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/24.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Eir Sport 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1889.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1889.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Premier Sports
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/25.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/25.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Boxnation
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/35.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/35.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Eurosport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/200.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/200.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/201.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/201.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Celtic TV (Live Games Only)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/26.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/26.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Hearts TV (Live Home Games Only)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/27.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/27.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Hibs TV (Live Home Games Only)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/28.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/28.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Rangers TV (Live Games Only)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/29.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/29.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Red TV (Live Games only)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/416.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/416.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SPFL 6
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1886.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1886.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,NBC SN
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/308.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/308.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Liverpool
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/202.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/202.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MUTV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/203.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/203.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Chelsea TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/204.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/204.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TSN 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/80.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/80.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TSN 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/81.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/81.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TSN 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/82.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/82.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TSN 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/83.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/83.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TSN 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/84.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/84.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sportsnet World
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/207.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/207.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sportsnet Ontario
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1991.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1991.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sportsnet West
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/208.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/208.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sportsnet One
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/209.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/209.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sportsnet 360
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/815.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/815.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Mio Stadium 102
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/705.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/705.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Mio Stadium 103
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/706.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/706.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Mio Stadium 104
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/707.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/707.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Astro 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/87.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/87.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Astro 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/86.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/86.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Astro 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/85.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/85.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Astro 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/980.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/980.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sportskanalen
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2148.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2148.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1963.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1963.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sport 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1964.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1964.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sport 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1965.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1965.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sport 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1966.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1966.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV2 Sport 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1967.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1967.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,TV3 Sport 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2300.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2300.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sport TV1 (Portugal)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1975.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1975.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sport TV2 (Portugal)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1976.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1976.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sport TV3 (Portugal)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1977.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1977.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sport TV4 (Portugal)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1978.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1978.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sport TV5 (Portugal)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1979.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1979.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports HD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2247.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2247.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2248.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2248.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2249.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2249.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2250.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2250.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2251.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2251.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2252.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2252.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Skynet Sports 6
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2253.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2253.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport Select HD(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2255.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2255.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport Voetbal(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2254.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2254.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport Racing(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2256.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2256.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport Golf(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2257.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2257.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport eXtra 1(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2259.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2259.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Ziggo Sport eXtra 2(nl)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2258.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2258.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SFR Sport 1 (fr)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2127.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2127.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SFR Sport 2 (fr)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2128.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2128.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SFR Sport 3 (fr)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2129.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2129.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,NFL Network
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2244.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2244.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 1 CRO
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2139.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2139.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 2 CRO
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2140.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2140.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 3 CRO
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2141.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2141.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 4 CRO
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2142.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2142.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 5 CRO
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2143.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2143.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 1 SRB
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2144.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2144.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 2 SRB
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2145.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2145.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 3 SRB
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2146.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2146.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Arena 4 SRB
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2147.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2147.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2056.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2056.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2057.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2057.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2012.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2012.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2046.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2046.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2058.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2058.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SportKlub 6
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2059.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2059.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,C More Futboll
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2001.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2001.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Real Madrid TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1181.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1181.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ESPN 1 USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/828.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/828.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ESPN 2 USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/829.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/829.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Fox Sports 1USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/458.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/458.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Fox Sports 2USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/682.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/682.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Motors TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/205.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/205.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Movistar Futbol (ES)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1890.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1890.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Movistar Moto GP (ES)
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1638.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1638.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,NBC Golf
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/206.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/206.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,PGA Tour TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2284.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2284.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,NFL Channel
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/370.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/370.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/292.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/292.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/290.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/290.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,bein3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/289.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/289.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein4
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/283.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/283.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein5
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/282.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/282.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein6
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/288.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/288.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein7
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/287.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/287.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein8
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/286.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/286.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein9
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/285.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/285.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein10
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/291.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/291.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein11
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/367.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/367.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein12
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/368.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/368.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,beIN13
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/669.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/669.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,beIN16
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2301.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2301.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Bein USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/369.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/369.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,WWE
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/890.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/890.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[COLORred]Music[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/889.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/889.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MTV Hits
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/242.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/242.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MTV Dance
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1090.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1090.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MTV Base
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1091.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1091.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MTV Classic
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/243.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/243.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,MTV Rocks
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/451.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/451.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Deluxe Music
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2009.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2009.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Heart TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/813.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/813.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Heart
 rtmp://cdn-sov-2.musicradio.com:80/LiveAudio/HeartLondon
 #EXTINF:-1,Kiss TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/413.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/413.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Virgin Radio
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/246.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/246.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,VH1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/381.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/381.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Vintage TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/353.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/353.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/408.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/408.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Capital TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1178.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1178.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,VH1
 http://77.101.152.34:8001/1:0:1:1B5A:7DA:2:11A0000:0:0:0:
 #EXTINF:-1,MTV Music +1
@@ -559,75 +559,75 @@ http://77.101.152.34:8001/1:0:1:D747:82F:2:11A0000:0:0:0:
 #EXTINF:-1,CAPITAL TV
 http://77.101.152.34:8001/1:0:1:D748:82F:2:11A0000:0:0:0:
 #EXTINF:-1,Absolute 60's
-plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a6128.mp3
+http://icecast.timlradio.co.uk:80/a6128.mp3
 #EXTINF:-1,Absolute 70's
-plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a7128.mp3
+http://icecast.timlradio.co.uk:80/a7128.mp3
 #EXTINF:-1,Absolute 80's
-plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a8128.mp3
+http://icecast.timlradio.co.uk:80/a8128.mp3
 #EXTINF:-1,Absolute 90's
-plugin://plugin.video.f4mTester/?url=http://icecast.timlradio.co.uk:80/a9128.mp3
+http://icecast.timlradio.co.uk:80/a9128.mp3
 #EXTINF:-1,BBC Radio 1
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2537.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2537.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 1xtra
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2538.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2538.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2539.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2539.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2540.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2540.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 4 Extra
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2543.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2543.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 4FM
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2541.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2541.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 4LW
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2542.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2542.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 5 Live
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2544.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2544.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 5 Live Sportsball Extra
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2545.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2545.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Radio 6 Music
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2546.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2546.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[COLORred]News[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,City TV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1956.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1956.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Sky News
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/70.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/70.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC News
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/239.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/239.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,RTÉ News
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2286.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2286.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CNN
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/827.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/827.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Al Jazeera
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2008.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2008.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,RT News
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/386.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/386.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ABC News USA
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/241.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/241.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CNBC
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1619.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1619.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[COLORred]Kids[/COLOR]
 http://fakefiles.com
 #EXTINF:-1,Pop
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/234.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/234.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1306.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1306.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Nick Junior Too
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1305.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1305.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CBeebies
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/1308.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/1308.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CBBC
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2227.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2227.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,CITV
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/2228.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/2228.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Disney Junior
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/236.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/236.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Disney Channel
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/235.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/235.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Disney XD
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/885.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/885.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://149.202.203.93:8888/live/taylor/taylor/238.ts&amp;streamtype=TSDOWNLOADER
+http://149.202.203.93:8888/live/taylor/taylor/238.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,---[COLORred]Sky Box Office[/COLOR]
 #EXTINF:-1,Sky Box Office
 http://77.101.152.34:8001/1:0:1:672:7D7:2:11A0000:0:0:0:  #Sky Box Office
