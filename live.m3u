@@ -59,17 +59,15 @@ http://149.202.203.93:8888/live/taylor/taylor/255.ts&amp;streamtype=TSDOWNLOADER
 http://149.202.203.93:8888/live/taylor/taylor/183.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dave ja vu
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11625.ts
-#EXTINF:-1,UK: Spike
+#EXTINF:-1,Spike
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11611.ts
-#EXTINF:-1,UK: Pick
+#EXTINF:-1,Pick
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6904.ts
-#EXTINF:-1,UK: Pick +1
+#EXTINF:-1,Pick +1
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11607.ts
-#EXTINF:-1,UK: Challenge
-http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11606.ts
-#EXTINF:-1,UK: Challenge +1
+#EXTINF:-1,Challenge
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11612.ts
-#EXTINF:-1,UK: Really
+#EXTINF:-1,Really
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6902.ts
 #EXTINF:-1,Challenge
 http://149.202.203.93:8888/live/taylor/taylor/177.ts&amp;streamtype=TSDOWNLOADER
@@ -545,8 +543,8 @@ http://77.101.152.34:8001/1:0:1:D034:83E:2:11A0000:0:0:0:
 http://77.101.152.34:8001/1:0:1:CB2A:839:2:11A0000:0:0:0:
 #EXTINF:-1,Clubland TV
 http://77.101.152.34:8001/1:0:1:D749:82F:2:11A0000:0:0:0:
-#EXTINF:-1,Channel AKA
-http://77.101.152.34:8001/1:0:1:CB8B:83B:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Channel AKA
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11795.ts
 #EXTINF:-1,Heart TV
 http://77.101.152.34:8001/1:0:1:D747:82F:2:11A0000:0:0:0:
 #EXTINF:-1,CAPITAL TV
