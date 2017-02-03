@@ -5,15 +5,16 @@ http://fakefiles.com
 http://149.202.203.93:8888/live/taylor/taylor/1894.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BBC Two
 http://149.202.203.93:8888/live/taylor/taylor/125.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ITV 1 SD
-=http://149.202.203.93:8888/live/taylor/taylor/1222.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV 1 HD
 http://149.202.203.93:8888/live/taylor/taylor/1353.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV 1 +1
 http://149.202.203.93:8888/live/taylor/taylor/2633.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Channel 4
-http://149.202.203.93:8888/live/taylor/taylor/132.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Channel 5
+#EXTINF:-1,UK: Channel 4 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3820.ts
+#EXTINF:-1,UK: Channel 4  +1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11603.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6459.ts
 #EXTINF:-1,ITV 2
 http://149.202.203.93:8888/live/taylor/taylor/134.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV 3
@@ -26,18 +27,14 @@ http://149.202.203.93:8888/live/taylor/taylor/137.ts&amp;streamtype=TSDOWNLOADER
 http://149.202.203.93:8888/live/taylor/taylor/2634.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ITV Be
 http://149.202.203.93:8888/live/taylor/taylor/138.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BBC Four
-http://149.202.203.93:8888/live/taylor/taylor/141.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BBC Red Button
-http://149.202.203.93:8888/live/taylor/taylor/725.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,e4
 http://149.202.203.93:8888/live/taylor/taylor/140.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,E4 +1
 http://149.202.203.93:8888/live/taylor/taylor/2635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC Four
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1434.ts
 #EXTINF:-1,Comedy Central
-http://149.202.203.93:8888/live/taylor/taylor/167.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Comedy Extra
-http://149.202.203.93:8888/live/taylor/taylor/168.ts&amp;streamtype=TSDOWNLOADER
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1445.ts
 #EXTINF:-1,Comedy Central +1
 http://149.202.203.93:8888/live/taylor/taylor/2640.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Comedy Extra  +1
@@ -52,8 +49,6 @@ http://149.202.203.93:8888/live/taylor/taylor/118.ts&amp;streamtype=TSDOWNLOADER
 http://149.202.203.93:8888/live/taylor/taylor/142.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,5star
 http://149.202.203.93:8888/live/taylor/taylor/119.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Gold
-http://149.202.203.93:8888/live/taylor/taylor/169.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Alibi
 http://149.202.203.93:8888/live/taylor/taylor/171.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Pick
@@ -63,21 +58,19 @@ http://149.202.203.93:8888/live/taylor/taylor/255.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dave
 http://149.202.203.93:8888/live/taylor/taylor/183.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Dave ja vu
-http://77.101.152.34:8001/1:0:1:1DC8:82D:2:11A0000:0:0:0:
-#EXTINF:-1,Spike
-http://77.101.152.34:8001/1:0:1:1E32:809:2:11A0000:0:0:0:
-#EXTINF:-1,Really
-http://77.101.152.34:8001/1:0:1:197B:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,QUEST
-http://77.101.152.34:8001/1:0:1:1843:7D9:2:11A0000:0:0:0:
-#EXTINF:-1,QUEST+1
-http://77.101.152.34:8001/1:0:1:CCCE:831:2:11A0000:0:0:0:
-#EXTINF:-1,DMAX
-http://77.101.152.34:8001/1:0:1:CCBF:831:2:11A0000:0:0:0:
-#EXTINF:-1,Universal
-http://77.101.152.34:8001/1:0:1:CC1F:83D:2:11A0000:0:0:0:
-#EXTINF:-1,Forces TV
-http://77.101.152.34:8001/1:0:1:1791:7D7:2:11A0000:0:0:0:
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11625.ts
+#EXTINF:-1,UK: Spike
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11611.ts
+#EXTINF:-1,UK: Pick
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6904.ts
+#EXTINF:-1,UK: Pick +1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11607.ts
+#EXTINF:-1,UK: Challenge
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11606.ts
+#EXTINF:-1,UK: Challenge +1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11612.ts
+#EXTINF:-1,UK: Really
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6902.ts
 #EXTINF:-1,Challenge
 http://149.202.203.93:8888/live/taylor/taylor/177.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Drama
