@@ -1,21 +1,26 @@
 #EXTM3U
 #EXTINF:-1,---[COLORred]Sports[/COLOR]
 http://fakefiles.com
-#EXTINF:-1,SKY Sports 1 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/4807.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/4847.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/5000.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/5933.ts
-#EXTINF:-1,Sky Sports 5 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/5191.ts
-#EXTINF:-1,[COLORred]BoxNation (Hay vs Bellew Fight)[/COLOR]
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/4988.ts
-#EXTINF:-1,BT Sport 1 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/5197.ts
-#EXTINF:-1,BT Sport 2 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/6393.ts
-#EXTINF:-1,BT Sports 3 HD
-http://two-brothers.dyndns.tv:8000/live/5VWvfCxhmD/horU4l690F/6574.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://192.99.149.14:25461/live/tim1/1980/7088.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7092.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://192.99.149.14:25461/live/tim1/1980/7096.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://192.99.149.14:25461/live/tim1/1980/7100.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://192.99.149.14:25461/live/tim1/1980/7104.ts
+#EXTINF:-1,Sky Sports Box Office boxing
+http://192.99.149.14:25461/live/tim1/1980/7107.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://192.99.149.14:25461/live/tim1/1980/7109.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://192.99.149.14:25461/live/tim1/1980/7252.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://192.99.149.14:25461/live/tim1/1980/7253.ts
+#EXTINF:-1,BT SPORTS 3HD
+http://192.99.149.14:25461/live/tim1/1980/7255.ts
+#EXTINF:-1,BT Sport ESPN
+http://192.99.149.14:25461/live/tim1/1980/7250.ts
+
